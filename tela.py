@@ -77,7 +77,7 @@ def converter_moeda(moeda):
     def calcular():
         cotacao_dolar, cotacao_euro, cotacao_btc = cotação()
         try:
-            valor = float(entrada_valor.get())
+            valor = float(entrada_valor.get().replace(',', '.'))
             if moeda == 'Dólar':
                 resultado = valor * cotacao_dolar
             elif moeda == 'Euro':
