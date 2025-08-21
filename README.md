@@ -16,7 +16,7 @@ A simple currency converter built in **Python** with a graphical interface. It u
 2. Enter the folder:
 
    ```bash
-   cd currency-converter
+   cd python-currency-converter
    ```
 3. Install dependencies:
 
