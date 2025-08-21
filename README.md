@@ -26,7 +26,7 @@ A simple currency converter built in **Python** with a graphical interface. It u
 4. Run the program:
 
    ```bash
-   python conversor.py
+   python Sistema.py
    ```
 
 
