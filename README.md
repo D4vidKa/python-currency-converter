@@ -11,7 +11,7 @@ A simple currency converter built in **Python** with a graphical interface. It u
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/currency-converter.git
+   git clone https://github.com/D4vidKa/python-currency-converter
    ```
 2. Enter the folder:
 
